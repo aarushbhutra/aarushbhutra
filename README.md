@@ -1,7 +1,7 @@
 ### Hi there 👋
  I am an Indian Minecraft Plugin Developer for 4 months and have 3 years of experince in server setups!
  
- ![My Github Statistics](https://github-readme-stats.vercel.app/api?username=aarushbhutra&show_icons=true&theme=tokyonight)
+ ![My Github Statistics](https://github-readme-stats.vercel.app/api?username=aarushbhutra&show_icons=true&theme=merko)
 <!--
 **aarushbhutra/aarushbhutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
