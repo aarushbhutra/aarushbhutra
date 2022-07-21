@@ -1,10 +1,6 @@
 ### Hi there 👋
  I am a Minecraft Plugin Developer for 4 months and have 3 years of experince in server setups!
  
- -🌱 I’m currently learning Java/Spigot
- -📫 How to reach me: You can find me with by my discord! Anon695#0180
- -😄 Pronouns: He/Him
- 
  ![My Github Statistics](https://github-readme-stats.vercel.app/api?username=aarushbhutra&show_icons=true&theme=merko)
 <!--
 **aarushbhutra/aarushbhutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
