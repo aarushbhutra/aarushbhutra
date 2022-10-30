@@ -3,7 +3,7 @@
 <div align="center">
 
 
-### Hi there <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!👋
+### Hi there string dev = reader;!👋
  I am a Minecraft Plugin Developer for 4 months and have 3 years of experince in server setups!
  
  🌱 I’m currently learning python3!
