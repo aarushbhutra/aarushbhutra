@@ -4,7 +4,7 @@
 
 
 ### Hi there <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!👋
- I am a Minecraft Plugin Developer for 4 months and have 3 years of experince in server setups!
+ I am a Minecraft Plugin Developer and have 3 years of experince in server setups!
  
  🌱 I’m currently learning python3!
  💬 Ask me about spigot and server setups!
