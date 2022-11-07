@@ -12,6 +12,7 @@
 
  ![My Github Statistics](https://github-readme-stats.vercel.app/api?username=aarushbhutra&show_icons=true&theme=merko)
  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarushbhutra&theme=tokyonight)
  
  <a href="https://open.spotify.com/user/9deg0bdti7hp1m5k9jnp1tdqf?si=25b994a7b27943fb" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
  
