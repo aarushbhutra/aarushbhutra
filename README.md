@@ -1,33 +1,25 @@
-</div>
+<h1 align="center">Hi 👋, I'm Aarush</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-<div align="center">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarushbhutra" alt="aarushbhutra" /></a> </p>
 
+- 🌱 I’m currently learning **Python**
 
-### Hi there <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!👋
- I am a Minecraft Plugin Developer and have 3 years of experince in server setups!
- 
- 🌱 I’m currently learning python3!
- 💬 Ask me about spigot and server setups!
- 📫 How to reach me: Discord > Anon695#0180
+- 📝 I regularly write articles on [https://thesciencetechnologytimes.blogspot.com/](https://thesciencetechnologytimes.blogspot.com/)
 
- ![My Github Statistics](https://github-readme-stats.vercel.app/api?username=aarushbhutra&show_icons=true&theme=merko)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarushbhutra&hide=javascript&theme=merko&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/aarushbhutra))
- 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=aarushbhutra&theme=merko)](https://github.com/aarushbhutra)
- 
- <a href="https://open.spotify.com/user/9deg0bdti7hp1m5k9jnp1tdqf?si=25b994a7b27943fb" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
- 
-</div>
-<!--
-Here are some ideas to get you started:
+- 💬 Ask me about **Spigot and Servers**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **Discord > Anon695#0180**
+
+- ⚡ Fun fact **I started playing minecraft when I was 11!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarushbhutra&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="aarushbhutra" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aarushbhutra&show_icons=true&theme=tokyonight&locale=en" alt="aarushbhutra" /></p>
