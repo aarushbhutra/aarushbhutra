@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Aarush</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarushbhutra" alt="aarushbhutra" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 
-- 📝 I regularly write articles on [https://thesciencetechnologytimes.blogspot.com/](https://thesciencetechnologytimes.blogspot.com/)
 
 - 💬 Ask me about **Spigot and Servers**
 
-- 📫 How to reach me **Discord > Anon695#0180**
+- 📫 How to reach me **Discord > Anon695**
 
-- ⚡ Fun fact **I started playing minecraft when I was 11!**
+- ⚡ Fun fact **I started playing minecraft when I was 14!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
