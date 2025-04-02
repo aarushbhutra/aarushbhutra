@@ -3,14 +3,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarushbhutra" alt="aarushbhutra" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **NextJS and Tailwind**
 
 
 - 💬 Ask me about **Spigot and Servers**
 
 - 📫 How to reach me **Discord > Anon695**
 
-- ⚡ Fun fact **I started playing minecraft when I was 14!**
+- ⚡ Fun fact **I started playing minecraft when I was 12!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
